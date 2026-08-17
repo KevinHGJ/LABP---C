@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787008637 source:c:\devc\e7composta\main.c
+	<stdio.h>
+	<stdlib.h>
+
