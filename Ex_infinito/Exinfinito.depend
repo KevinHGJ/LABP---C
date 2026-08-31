@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788217839 source:c:\devc\exinfinito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
