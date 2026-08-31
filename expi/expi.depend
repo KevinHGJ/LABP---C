@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1788189850 source:c:\users\user\desktop\programa em c\expi\main.c
+	<stdio.h>
+	<stdlib.h>
+
